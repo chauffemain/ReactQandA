@@ -1,2 +1,0 @@
-# ReactQandA
-Created with CodeSandbox
